@@ -1,0 +1,15 @@
+{
+    "name": "allan/api-musicas-comu",
+    "autoload": {
+        "psr-4": {
+            "Allan\\ApiMusicasComu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "allangnutzmans",
+            "email": "allan.sgnutzmans@gmail.com"
+        }
+    ],
+    "require": {}
+}
